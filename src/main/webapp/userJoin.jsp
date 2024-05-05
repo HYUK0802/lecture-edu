@@ -42,7 +42,7 @@
   <form method="post" action="./userRegisterAction.jsp">
     <div class="form-group">
       <label>아이디</label>
-      <input type="text" name="userId" class="form-control">
+      <input type="text" name="userID" class="form-control">
     </div>
     <div class="form-group">
       <label>비밀번호</label>
