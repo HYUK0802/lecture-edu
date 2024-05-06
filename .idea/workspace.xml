@@ -9,19 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0f29bd9-3928-409a-9777-43a00fc3d296" name="Changes" comment="userModelling">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyuk/lectureedu/util/Gmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hyuk/lectureedu/util/SHA256.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectureedu/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectureedu/user/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectureedu/user/UserDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectureedu/util/DatabaseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectureedu/util/Gmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectureedu/util/SHA256.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/userRegisterAction.jsp" afterDir="false" />
+    <list default="true" id="f0f29bd9-3928-409a-9777-43a00fc3d296" name="Changes" comment="join">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/emailSendAction.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/userJoin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/userJoin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lectureedu/user/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectureedu/user/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lectureedu/util/Gmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectureedu/util/Gmail.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,36 +65,36 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Tomcat Server.Tomcat 8.5.100.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;/Users/hyuk/Desktop/StudyAlone/lecture-edu/src/main/java&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/hyuk/Desktop/StudyAlone/lecture-edu/src/main/java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Tomcat Server.Tomcat 8.5.100.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/hyuk/Desktop/StudyAlone/lecture-edu/src/main/java",
+    "last_opened_file_path": "/Users/hyuk/Desktop/StudyAlone/lecture-edu/src/main/webapp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql_aurora_aws&quot;,
-      &quot;mariadb&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora_aws",
+      "mariadb"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
   <component name="RunManager">
@@ -211,7 +203,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714757101110</updated>
       <workItem from="1714757102108" duration="12598000" />
-      <workItem from="1714929014564" duration="3917000" />
+      <workItem from="1714929014564" duration="9242000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -237,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714925403365</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="join">
+      <option name="closed" value="true" />
+      <created>1714932949905</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714932949905</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +247,8 @@
     <MESSAGE value="first" />
     <MESSAGE value="login, db" />
     <MESSAGE value="userModelling" />
-    <option name="LAST_COMMIT_MESSAGE" value="userModelling" />
+    <MESSAGE value="join" />
+    <option name="LAST_COMMIT_MESSAGE" value="join" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

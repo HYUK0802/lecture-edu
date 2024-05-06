@@ -87,7 +87,7 @@ public class UserDAO {
         return null; // 회원가입 실패
     }
 
-    public boolean getUserEMailChecked(String userID){
+    public boolean getUserEmailChecked(String userID){
         String SQL = "SELECT userEmailChecked FROM USER WHERE userID = ?";
         Connection conn = null;
         PreparedStatement pstmt = null;
