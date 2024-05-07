@@ -10,10 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0f29bd9-3928-409a-9777-43a00fc3d296" name="Changes" comment="join">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/emailSendAction.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/activation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/emailCheckAction.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lectureedu/user/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectureedu/user/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lectureedu/util/Gmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lectureedu/util/Gmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lectureedu/util/Gmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/emailSendAction.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/emailSendAction.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/userJoin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/userJoin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/userLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/userLogin.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +100,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib" />
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
@@ -203,7 +210,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714757101110</updated>
       <workItem from="1714757102108" duration="12598000" />
-      <workItem from="1714929014564" duration="9242000" />
+      <workItem from="1714929014564" duration="22724000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -237,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714932949905</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="join">
+      <option name="closed" value="true" />
+      <created>1715007498443</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715007498443</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
