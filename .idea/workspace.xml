@@ -9,12 +9,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0f29bd9-3928-409a-9777-43a00fc3d296" name="Changes" comment="join">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/emailSendConfirm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/userLoginAction.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/userLogout.jsp" afterDir="false" />
+    <list default="true" id="f0f29bd9-3928-409a-9777-43a00fc3d296" name="Changes" comment="login,logout">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lectureedu/evaluation/EvaluationDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lectureedu/evaluation/EvaluationDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lectureedu/likey/LikeyDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lectureedu/likey/LikeyDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/deleteAction.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/evaluationRegisterAction.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/likeAction.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reportAction.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/emailSendAction.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/emailSendAction.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/emailSendConfirm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/emailSendConfirm.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/userJoin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/userJoin.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/userLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/userLogin.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/userRegisterAction.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/userRegisterAction.jsp" afterDir="false" />
     </list>
@@ -208,7 +216,7 @@
       <updated>1714757101110</updated>
       <workItem from="1714757102108" duration="12598000" />
       <workItem from="1714929014564" duration="24219000" />
-      <workItem from="1715070934566" duration="4150000" />
+      <workItem from="1715070934566" duration="19877000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -258,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715065134184</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="login,logout">
+      <option name="closed" value="true" />
+      <created>1715077970109</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715077970109</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +285,8 @@
     <MESSAGE value="login, db" />
     <MESSAGE value="userModelling" />
     <MESSAGE value="join" />
-    <option name="LAST_COMMIT_MESSAGE" value="join" />
+    <MESSAGE value="login,logout" />
+    <option name="LAST_COMMIT_MESSAGE" value="login,logout" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
