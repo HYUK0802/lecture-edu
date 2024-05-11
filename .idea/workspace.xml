@@ -9,22 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0f29bd9-3928-409a-9777-43a00fc3d296" name="Changes" comment="login,logout">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectureedu/evaluation/EvaluationDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectureedu/evaluation/EvaluationDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectureedu/likey/LikeyDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectureedu/likey/LikeyDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/deleteAction.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/evaluationRegisterAction.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/likeAction.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/reportAction.jsp" afterDir="false" />
+    <list default="true" id="f0f29bd9-3928-409a-9777-43a00fc3d296" name="Changes" comment="finish">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/emailSendAction.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/emailSendAction.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/emailSendConfirm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/emailSendConfirm.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/userJoin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/userJoin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/userLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/userLogin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/userRegisterAction.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/userRegisterAction.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,32 +62,32 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Tomcat Server.Tomcat 8.5.100.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;/Users/hyuk/Desktop/StudyAlone/lecture-edu/src/main/java&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/hyuk/Desktop/StudyAlone/lecture-edu/src/main/webapp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Tomcat Server.Tomcat 8.5.100.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/hyuk/Desktop/StudyAlone/lecture-edu/src/main/java",
+    "last_opened_file_path": "/Users/hyuk/Desktop/StudyAlone/lecture-edu/src/main/webapp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.JavaFX",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql_aurora_aws&quot;,
-      &quot;mariadb&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora_aws",
+      "mariadb"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/webapp" />
@@ -216,7 +202,7 @@
       <updated>1714757101110</updated>
       <workItem from="1714757102108" duration="12598000" />
       <workItem from="1714929014564" duration="24219000" />
-      <workItem from="1715070934566" duration="19877000" />
+      <workItem from="1715070934566" duration="21468000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -274,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715077970109</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="finish">
+      <option name="closed" value="true" />
+      <created>1715145262338</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715145262338</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +280,8 @@
     <MESSAGE value="userModelling" />
     <MESSAGE value="join" />
     <MESSAGE value="login,logout" />
-    <option name="LAST_COMMIT_MESSAGE" value="login,logout" />
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
