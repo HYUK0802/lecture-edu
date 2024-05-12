@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-241.15989.150">
+    <data-source name="@localhost" uuid="fe47858a-eb78-4284-ace9-c5189381c558">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL_AURORA" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>study</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="@localhost [3]" uuid="f330160c-704e-4a49-b572-69cd4e3e646c">
+      <database-info product="MariaDB" version="10.11.2-MariaDB" jdbc-version="4.2" driver-name="MariaDB Connector/J" driver-version="3.3.3" dbms="MARIADB" exact-version="10.11.2" exact-driver-version="3.3">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>study</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="@" />
+            <name qname="LectureEvaluation" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>
